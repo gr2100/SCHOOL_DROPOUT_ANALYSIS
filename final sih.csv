@@ -1,0 +1,42 @@
+School Wise,Area Wise,Gender Wise,Caste Wise,Age,Year Dropped Out,Standards,Enrollment Year,Mother Occupation,Father Occupation,Monthly Income,Dropped out
+Primary,Tamil Nadu,Male,General,7,2000,7,1999,Teacher,Software Developer,2764,1
+Secondary,Maharashtra,Female,SC,10,2009,5,2004,Nurse,Banker,3114,1
+Higher Secondary,Punjab,Male,ST,12,2009,7,2005,Engineer,Mechanic,1003,1
+Higher Secondary,Kerala,Female,OBC,14,2005,9,2001,Accountant,Pharmacist,46598,1
+Higher Secondary,Karnataka,Male,General,15,2003,8,1998,Doctor,Architect,16095,1
+Primary,Rajasthan,Female,SC,7,2007,2,2001,Homemaker,Retired,2897,1
+Secondary,West Bengal,Male,ST,9,2004,7,2002,Artist,Plumber,1661,1
+Higher Secondary,Andhra Pradesh,Female,OBC,11,2017,10,2001,Carpenter,Firefighter,12082,1
+Higher Secondary,Tamil Nadu,Male,General,13,2012,5,2003,Lawyer,Professor,1887,1
+Higher Secondary,Kerala,Female,SC,15,2000,5,1997,Electrician,Electrician,5871,1
+Primary,Maharashtra,Male,ST,12,2006,2,2005,Waiter,Truck Driver,3773,1
+Secondary,Odisha,Female,OBC,10,2016,5,2009,Chef,Construction Worker,3668,1
+Higher Secondary,Uttar Pradesh,Male,General,17,2007,9,2004,Librarian,Pilot,12341,1
+Higher Secondary,West Bengal,Female,SC,16,2005,6,2000,Police Officer,Police Officer,1583,1
+Higher Secondary,Haryana,Male,ST,17,2012,3,2006,Farmer,Sales Manager,27163,1
+Primary,Telangana,Female,OBC,12,2003,2,2001,Teacher,Software Developer,2367,1
+Secondary,Gujarat,Male,General,14,2018,12,2004,Nurse,Banker,4246,1
+Higher Secondary,Tamil Nadu,Female,SC,14,2006,5,2002,Engineer,Mechanic,1927,1
+Higher Secondary,Madhya Pradesh,Male,General,15,2019,5,1999,Accountant,Pharmacist,44320,1
+Higher Secondary,Haryana,Female,OBC,15,2002,8,2000,Doctor,Architect,14248,1
+Primary,Gujarat,Male,SC,10,2010,3,2005,Homemaker,Retired,3569,1
+Secondary,Haryana,Female,ST,11,2013,7,2006,Artist,Plumber,1267,1
+Higher Secondary,Madhya Pradesh,Male,General,13,2004,6,1999,Carpenter,Firefighter,26964,1
+Higher Secondary,Haryana,Female,SC,15,2002,5,1997,Lawyer,Professor,2110,1
+Higher Secondary,Gujarat,Male,ST,16,2003,10,2001,Electrician,Electrician,21956,1
+Primary,Odisha,Female,General,7,2011,3,2007,Waiter,Truck Driver,4453,1
+Secondary,Andhra Pradesh,Male,ST,10,2009,2,2004,Chef,Construction Worker,4976,1
+Higher Secondary,Madhya Pradesh,Female,OBC,11,2016,4,2002,Librarian,Pilot,14001,1
+Higher Secondary,Haryana,Male,General,12,2013,7,2006,Police Officer,Police Officer,1118,1
+Primary,Tamil Nadu,Male,OBC,8,Null,2,2008,Engineer,Doctor,25834,0
+Secondary,Kerala,Female,General,9,Null,4,2013,Nurse,Accountant,36456,0
+Higher Secondary,Karnataka,Male,SC,13,Null,8,2014,Artist,Engineer,7923,0
+Higher Secondary,Maharashtra,Female,ST,16,Null,7,2013,Carpenter,Mechanic,10233,0
+Primary,Punjab,Male,General,6,Null,2,2003,Teacher,Scientist,1800,0
+Secondary,Telangana,Female,OBC,11,Null,6,2007,Homemaker,Banker,3100,0
+Higher Secondary,West Bengal,Male,SC,14,Null,8,2010,Accountant,Pharmacist,45000,0
+Higher Secondary,Andhra Pradesh,Female,General,15,Null,5,2008,Doctor,Engineer,52000,0
+Primary,Kerala,Male,OBC,7,Null,2,2006,Waiter,Truck Driver,2500,0
+Secondary,Tamil Nadu,Female,ST,9,Null,5,2009,Chef,Construction Worker,2950,0
+Higher Secondary,Karnataka,Male,General,12,Null,7,2013,Librarian,Pilot,3900,0
+Higher Secondary,Maharashtra,Female,SC,13,Null,6,2011,Police Officer,Police Officer,80000,0
