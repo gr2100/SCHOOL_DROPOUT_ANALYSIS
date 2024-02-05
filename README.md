@@ -1,4 +1,6 @@
 # Student Dropout Analysis and Prediction for School Education
+## Team Name
+DEADLINE TECH
 
 ## Project Overview
 
